@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FoneClaw-AI/.github/blob/main/profile/banner.png" alt="FoneClaw - Android AI phone assistant" width="100%">
+  <img src="banner.png" alt="FoneClaw - Android AI phone assistant" width="100%">
 </p>
 
 <div align="center">
