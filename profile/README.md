@@ -61,7 +61,7 @@ Works across Android brands including **Samsung**, **Xiaomi**, **OnePlus**, **Go
   <tr>
     <td align="center" width="50%">
       <a href="https://www.foneclaw.ai/author/dean.html">
-        <img src="https://www.foneclaw.ai/images/author-dean.jpg" alt="Dean" width="108" height="108" style="border-radius: 50%; border: 3px solid #4f46e5; padding: 3px; object-fit: cover;">
+        <img src="avatar_dean.png" alt="Dean" width="108" height="108">
       </a>
       <br>
       <strong>Dean</strong>
@@ -72,7 +72,7 @@ Works across Android brands including **Samsung**, **Xiaomi**, **OnePlus**, **Go
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/bitlikerclub">
-        <img src="https://img0.baidu.com/it/u=4022000652,3291533986&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500" alt="Bitlikerclub" width="108" height="108" style="border-radius: 50%; border: 3px solid #4f46e5; padding: 3px; object-fit: cover;">
+        <img src="avatar_bitlikerclub.png" alt="Bitlikerclub" width="108" height="108">
       </a>
       <br>
       <strong>Bitlikerclub</strong>
